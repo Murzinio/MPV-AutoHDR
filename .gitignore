@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Don't include built dll
-.dll
+*.dll

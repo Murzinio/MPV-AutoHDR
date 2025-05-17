@@ -14,7 +14,7 @@ local hdr_settings_on =
     ["inverse-tone-mapping"] = "yes",
     ["target-peak"] = "400",
     ["target-trc"] = "pq",
-    ["tone-mapping"] = "bt.2446-a"
+    ["tone-mapping"] = "bt.2446a"
 }
 
 local hdr_settings_off = 
